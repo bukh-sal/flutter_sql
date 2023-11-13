@@ -4,6 +4,7 @@ import 'model.dart';
 import 'io.dart';
 
 void main() {
+  print("HELLO THERE :)");
   runApp(const MyApp());
 }
 
